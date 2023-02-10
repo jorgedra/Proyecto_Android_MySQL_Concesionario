@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Concesionario</string>
+    <string name="vehiculos_disponibles">Vehiculos Disponibles</string>
+    <string name="refrescar">Refrescar</string>
+    <string name="matricula_a_buscar">Matricula a buscar</string>
+    <string name="buscar">Buscar</string>
+    <string name="precio_maximo_a_buscar">Precio maximo a buscar</string>
+    <string name="borrar">Borrar</string>
+    <string name="precio">Precio</string>
+    <string name="cambiar_imagen">Cambiar imagen</string>
+    <string name="matricula">Matricula</string>
+    <string name="tipos_de_vehiculos">Tipos de vehiculos</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="todo">TODO</string>
+    <string name="tipo">Tipo:</string>
+    <string name="preciov">Precio</string>
+    <string name="caballos">Caballos</string>
+    <string name="marca">Marca</string>
+    <string name="modelo">Modelo</string>
+    <string name="matricula_coche">Matricula Coche</string>
+    <string name="caballosv">Caballos</string>
+    <string name="marcav">Marca</string>
+    <string name="modelov">Modelo</string>
+    <string name="seleccione_la_accion_que_desea_realizar">Seleccione la accion que desea realizar</string>
+</resources>
